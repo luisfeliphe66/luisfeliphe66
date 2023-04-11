@@ -3,7 +3,6 @@ Olá eu sou Luis feliphe
 
 - 🔭 Hoje trabalho com front-end e back-end
 - 🌱 Estudando PHP
-- 😄 Pronouns: ele/dele
 
 ![Luis Feliphe estatísticas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
