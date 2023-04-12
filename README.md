@@ -1,13 +1,18 @@
-<h1> Olá sou Luis Feliphe. </h1>
+<img align="left" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgb3-1.fna.fbcdn.net/v/t51.2885-19/51454506_327491417891455_1572595747080110080_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgb3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=omMHiM4hxqoAX-X9gzh&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfALEDhg5d0UbcsCk3yHIrvlziFshdXSZII3K6YF0jA10w&oe=643AD0CA&_nc_sid=1527a3">
+
+<h1><i> Olá sou Luis Feliphe. <i></h1>
+
 
 <div>
   <a href="https://github.com/luisfeliphe66">
-  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luisfeliphe66&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfeliphe66&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="130em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luisfeliphe66&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfeliphe66&layout=compact&langs_count=7&theme=react" />
+   
+<div>
+  <img align="right" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
+ 
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,4 +35,5 @@
  
 </div>
  
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LUISFELIPHE66&repo=LUISFELIPHE66&theme=react)](https://github.com/LUISFELIPHE66/LUISFELIPHE66)
