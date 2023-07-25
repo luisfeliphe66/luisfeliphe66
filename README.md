@@ -1,5 +1,3 @@
-<img align="left" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgb3-1.fna.fbcdn.net/v/t51.2885-19/51454506_327491417891455_1572595747080110080_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcgb3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=omMHiM4hxqoAX-X9gzh&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfALEDhg5d0UbcsCk3yHIrvlziFshdXSZII3K6YF0jA10w&oe=643AD0CA&_nc_sid=1527a3">
-
 <h1><i> Olá sou Luis Feliphe. <i></h1>
 
 
