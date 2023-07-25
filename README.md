@@ -7,7 +7,7 @@
   <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfeliphe66&layout=compact&langs_count=7&theme=react" />
    
 <div>
-  <img align="right" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+<!--   <img align="right" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613"> -->
 </div>
  <br>
  
