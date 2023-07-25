@@ -21,7 +21,7 @@
 </div>
   
 <div>
-  <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133218923744075866/1Kte.gif" width="100" height="100">
+  <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
 </div>
 
 ##
