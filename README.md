@@ -18,7 +18,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-line-wordmark.svg">
-    <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
+  <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
 </div>
  
   <br><a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
