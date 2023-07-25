@@ -21,7 +21,7 @@
   <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
 </div>
  
-  <br><a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br> <a href="https://discord.gg/wagxzStdcR(https://discord.gg/TrZpPJng)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> </a>
   <a href="https://www.instagram.com/luisfeliphe66/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-feliphe-161548b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
