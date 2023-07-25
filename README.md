@@ -7,7 +7,7 @@
   <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfeliphe66&layout=compact&langs_count=7&theme=react" />
    
 <div>
-  <img align="right" width="148" height="180" src="https://discord.com/channels/1099760773363925073/1099760773967908992/1133209428976476284">
+  
 </div>
  <br>
  
@@ -27,7 +27,8 @@
 </div>
   <br><a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luisfeliphe66/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-feliphe-161548b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-feliphe-161548b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="687108491646730376" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
 </div>
  
