@@ -18,10 +18,11 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-line-wordmark.svg">
-</div>
+    <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
+<!-- </div>
   
-<div>
-  <img align="right" alt="Luis-gif" src="https://cdn.discordapp.com/attachments/1099760773967908992/1133223526472626276/IMG_20220119_165710.png" width="120" height="160">
+<div> -->
+  
 </div>
 
 ##
